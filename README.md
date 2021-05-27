@@ -1,6 +1,6 @@
-### Hi there, I'm Karis Papdopoulos 👋  
+### Hi there, I'm Karis Papadopoulos 👋  
 
-## I'm a Web Developer ! This is the place where I do projects and solve many problems. 🤣
+## I'm a Web Developer ! This is the place where I do projects and solve many problems 🤣
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
